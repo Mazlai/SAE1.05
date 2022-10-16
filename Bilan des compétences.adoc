@@ -1,0 +1,94 @@
+## Bilan des compétences - SAE S1.05 - Recueil de besoins
+
+=== Bilan technique :
+
+==== Contexte et objectifs :
+
+- _Objectif principal_ : Recueillir le besoin d’un client pour un projet
+(application, produit, activité etc.) donné.
+- Chercher une organisation et préparer une interview (questions)
+destinée à la demande du client.
+- Interroger le client sur son exigence.
+- Savoir retranscrire les informations récoltées du besoin sous la forme
+d’un dossier écrit (format PDF) ainsi que d’une vidéo finale de
+présentation (avec diaporama intégré).
+
+==== Problèmes rencontrés et solutions adoptées :
+
+- Rechercher un client potentiel et connaître son organisation | Se
+rapporter aux contacts ; effectuer des recherches sur le web (internet).
+- Produire des questions en rapport au besoin demandé | Se référer aux
+cours de ProjOrg (abrégé en “Gestion des projets et des organisations”).
+- Organiser l’interview et la répartition des questions | Utiliser
+l’application Discord ; répartir selon les décisions du chef de projet.
+- Se faire comprendre et comprendre l’attente du client professionnel |
+Argumenter pour des réponses formelles ; être à l’écoute du client.
+- Construire le dossier récapitulatif, les maquettes ainsi que la diaporama
+adaptée | Utiliser Google Docs, Google Slides (Git) ainsi que l’outil Figma.
+
+==== Objectifs et résultats :
+
+- ✓ Trouver le client et préparer l’interview du besoin.
+- ✓ Réaliser l’interview et recueillir les informations nécessaires.
+- ✓ Composer un compte-rendu sous forme écrite et audiovisuelle.
+
+=== Bilan du travail d’équipe :
+
+==== Relations et fonctionnement de l’équipe :
+
+- _Accord au sein de l’équipe_ : Participer, être ponctuel et efficace.
+- Utilisation de Discord pour l’interview ainsi que la communication au
+sein du groupe.
+- Utilisation de Google Docs (Git) pour la rédaction du dossier final.
+- Utilisation de Google Slides (Git) pour la préparation du diaporama.
+- Utilisation de Figma pour la réalisation des diverses maquettes.
+
+==== Planification prévisionnelle / réelle des tâches :
+
+- *Temps prévisionnel : 12 heures | Temps réel : 12 heures.*
+
+==== Répartition du travail :
+
+- S’approprier l’objectif du projet et trouver un client | 4 membres.
+- Dresser des questions pertinentes pour l’interview / Trier et restituer les
+informations sur un dossier récapitulatif | 1 membre pour chaque partie.
+- Construire les maquettes | 1 membre pour chaque partie.
+- Réaliser le diaporama / préparer sa partie de la vidéo | 1 membre chacun.
+
+=== Bilan de compétences personnelles :
+
+==== Place occupée / tâches prises en charge :
+
+- Préparer les questions et rédiger les réponses explicites du client sur les
+parties “description du besoin” et “objectifs et freins”.
+- Construire l’ensemble des “user stories” possibles au fonctionnement du
+besoin.
+- Trouver un support de diaporama, adapté dans le cadre de ce projet.
+
+==== Rapport entre les ressources et compétences :
+
+- Comprendre et s’approprier l’objectif du projet : R1.08-ProjOrg.
+- Avoir une répartition optimisée des tâches à réaliser : R1.08-ProjOrg.
+- Construire le fond du dossier récapitulatif pour une demande d’un
+besoin (utilisateurs, personae, user stories, exigences) : R1.08-ProjOrg.
+- Réaliser la forme du dossier ainsi que les maquettes des “user flow” :
+R1.02-DevWeb.
+- Être argumentatif et savoir s’exprimer clairement dans un cadre
+professionnel : R1.11-Com | R1.12-PPP.
+
+==== Réussites et difficultés rencontrées :
+
+===== Réussites :
+
+- Écoute claire et retranscription explicite des besoins d’un client.
+- Amélioration en termes de confort à savoir s’exprimer auprès d’un
+professionnel mais également en connaissances du milieu professionnel.
+
+===== Difficultés :
+
+- Établir un contact avec un client occupé, nous ayant obligés à replanifier
+le temps imposé pour rendre le travail à temps.
+- Rédiger des “user stories” pour le besoin du client, nous forçant à être
+attentif mais également soucieux des réponses apportées.
+- Rendre le travail à temps, dû à un membre peu productif et isolé du
+groupe.
